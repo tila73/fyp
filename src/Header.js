@@ -20,7 +20,7 @@ function Header() {
               alt="logo"
               width={200}
               height={40}
-              objectFit="contain"
+              //objectFit="contain"
             />
           </div>
 
